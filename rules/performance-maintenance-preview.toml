@@ -1,7 +1,7 @@
 schema_version = 1
 id = "performance-maintenance-preview"
 name = "Maintenance Preview"
-category = "Other"
+category = { Other = "performance" }
 risk = "Medium"
 enabled = true
 

@@ -1,7 +1,7 @@
 schema_version = 1
 id = "performance-system-status"
 name = "System Status Snapshot"
-category = "Other"
+category = { Other = "performance" }
 risk = "Low"
 enabled = true
 
